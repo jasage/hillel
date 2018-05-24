@@ -1,0 +1,6 @@
+#new-movie-block{
+    margin: 10px;
+}
+#new-movie-block label{
+    display: block;
+}
